@@ -1,0 +1,6 @@
+R packages:
+dplyr
+readr
+tidyr
+cluster
+ggplot2
