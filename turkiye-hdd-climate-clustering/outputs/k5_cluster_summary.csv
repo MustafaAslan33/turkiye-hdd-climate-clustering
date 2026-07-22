@@ -1,6 +1,0 @@
-cluster,n_provinces,mean_hdd,min_hdd,max_hdd,interpretation,provinces
-1,6,8.251,0.0,25.3,Mild Mediterranean coastal zone,"Adana, Antalya, Hatay, Mersin, Kahramanmaras, Osmaniye"
-2,11,11.888,0.0,25.8,Southeastern transitional continental zone,"Adiyaman, Diyarbakir, Elazig, Gaziantep, Malatya, Mardin, Siirt, Sanliurfa, Batman, Kilis, Igdir"
-3,24,14.755,0.0,35.8,Central Anatolian and northern inland zone,"Afyonkarahisar, Amasya, Ankara, Cankiri, Corum, Giresun, Kastamonu, Kayseri, Kirsehir, Konya, Nevsehir, Nigde, Ordu, Rize, Samsun, Sinop, Sivas, Tokat, Trabzon, Yozgat, Aksaray, Karaman, Kirikkale, Karabuk"
-4,15,20.646,3.6,40.5,Cold eastern highland zone,"Agri, Artvin, Bingol, Bitlis, Erzincan, Erzurum, Gumushane, Hakkari, Kars, Mus, Tunceli, Van, Bayburt, Sirnak, Ardahan"
-5,25,11.347,0.0,30.7,Mild Marmara-Aegean-western zone,"Aydin, Balikesir, Bilecik, Bolu, Burdur, Bursa, Canakkale, Denizli, Edirne, Eskisehir, Isparta, Istanbul, Izmir, Kirklareli, Kocaeli, Kutahya, Manisa, Mugla, Sakarya, Tekirdag, Usak, Zonguldak, Yalova, Duzce, Bartin"
